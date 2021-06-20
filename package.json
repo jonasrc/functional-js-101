@@ -1,0 +1,28 @@
+{
+  "name": "functional-js-101",
+  "version": "1.0.0",
+  "description": "Fundamentals of functional JS for study purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonasrc/functional-js-101.git"
+  },
+  "keywords": [
+    "functional",
+    "programming",
+    "js",
+    "javascript"
+  ],
+  "author": "Jonas Rocha Castanheira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonasrc/functional-js-101/issues"
+  },
+  "homepage": "https://github.com/jonasrc/functional-js-101#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
